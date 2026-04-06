@@ -1,0 +1,6 @@
+2026-04-06 09:01:12 INFO user=jdoe action=login status=failed src_ip=192.168.1.50
+2026-04-06 09:01:20 INFO user=jdoe action=login status=failed src_ip=192.168.1.50
+2026-04-06 09:01:31 INFO user=jdoe action=login status=success src_ip=192.168.1.50
+2026-04-06 09:03:02 INFO user=jdoe action=file_access resource=/finance/payroll.xlsx status=success
+2026-04-06 09:04:17 WARNING user=jdoe action=file_modify resource=/finance/payroll.xlsx status=success
+2026-04-06 09:05:45 INFO user=asmith action=login status=success src_ip=192.168.1.88
